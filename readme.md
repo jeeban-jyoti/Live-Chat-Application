@@ -5,7 +5,10 @@ dependencies for client:
   mongoose
   socket.io
   
-command: npm i body-parser ejs express socket.io mongoose
+command:
+'''
+npm i body-parser ejs express socket.io mongoose
+'''
   
 dependencies for server:
   cors
@@ -13,4 +16,7 @@ dependencies for server:
   mongoose
   socket.io
   
-command: npm i cors express socket.io mongoose
+command:
+'''
+npm i cors express socket.io mongoose
+'''
