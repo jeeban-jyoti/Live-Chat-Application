@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+    <head>
+        <title>lobby</title>
+        <style type="text/javascript" src="/js/lobby.js"></style>
+        <link rel="stylesheet" href="/css/lobby.css">
+    </head>
+    <body>
+        <form method="post" id="frm">
+            <div>
+                <label for="radio1">
+                    <input type="radio" name="chatMethod1" id="join_room">Join Room
+                </label>
+                <input type="text" name="roomLink" id="room_url">
+            </div>
+            <div>
+                <label for="radio2">
+                    <input type="radio" name="chatMethod2" id="create_room">Create Room
+                    <input type="checkbox" name="public" id="public">public
+                </label>
+            </div>
+            <div>
+                <label for="radio3">
+                    <input type="radio" name="chatMethod3" id="random">Random Chat
+                </label>
+            </div>
+            <div>
+                <input type="submit" value="submit" id="start">
+            </div>
+        </form>
+    </body>
+</html>

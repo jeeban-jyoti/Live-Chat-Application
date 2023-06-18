@@ -1,0 +1,48 @@
+body{
+    height: 97vh;
+    background-image: linear-gradient(rgb(49, 69, 58), rgb(233, 195, 121));
+    color: white;
+}
+
+.messageBox{
+    display: block;
+    margin: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    opacity: 0.85;
+    height: 75%;
+    width:70%;
+    overflow-y: auto;
+    border: 2px solid black;
+}
+
+h1{
+    text-align: center;
+}
+#sendMessage{
+    justify-content: center;
+    display: flex;
+}
+
+#send-message{
+    width: 50%;
+}
+
+b{
+    color: rgb(168, 213, 171);
+}
+
+.left{
+    float: left;
+    clear: both;
+}
+
+.right{
+    float: right;
+    clear: both;
+}
+
+.blocks{
+
+}

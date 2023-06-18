@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <head>
+        <script defer src="/socket.io/socket.io.js"></script>
+        <link rel="stylesheet" href="/css/chatroom.css">
+    </head>
+    <body>
+        <div>
+            Welcome to chatroom. id: <u id="roomCode"><%= roomLink %></u>
+        </div>
+        <h1>WELCOME TO LIVE CHAT APPLICATION</h1>
+        <div class="messageBox" id="msgbox">
+            
+        </div>
+        <div class="frm">
+            <form id="sendMessage">
+                <input type="text" name="message" id="send-message">
+                <input type="submit" value="send">
+            </form>
+        </div>
+        <script defer src="/js/chatroom.js"></script>
+    </body>
+</html>
