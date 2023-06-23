@@ -51,4 +51,9 @@ to start the client ( in new terminal )
 ```
 ## Screenshots
 
-![image description](https://github.com/jeeban-jyoti/links/blob/main/Annotation%202023-06-23%20130015.png?raw=true)
+![Annotation 2023-06-23 130015](https://github.com/jeeban-jyoti/Live-Chat-Application/assets/72793803/0a7fe59d-5e7b-4b24-94ba-5a559ffe61fd)
+
+![Annotation 2023-06-23 130323](https://github.com/jeeban-jyoti/Live-Chat-Application/assets/72793803/fd52e732-6ba3-4993-865e-1f8023f185f2)
+
+![Annotation 2023-06-23 130231](https://github.com/jeeban-jyoti/Live-Chat-Application/assets/72793803/a9721008-e21f-4678-a289-0723cf9c81e8)
+
