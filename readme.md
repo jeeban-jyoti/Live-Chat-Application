@@ -50,10 +50,12 @@ to start the client ( in new terminal )
   node client.js
 ```
 ## Screenshots
-
+1.It is the home page.You can choose whether you want to join a already made room or create a new room or join some random public room.
 ![Annotation 2023-06-23 130015](https://github.com/jeeban-jyoti/Live-Chat-Application/assets/72793803/0a7fe59d-5e7b-4b24-94ba-5a559ffe61fd)
 
+2.Once you join a room it will ask a name with which you want to join.
 ![Annotation 2023-06-23 130323](https://github.com/jeeban-jyoti/Live-Chat-Application/assets/72793803/fd52e732-6ba3-4993-865e-1f8023f185f2)
 
+3.Chat Preview
 ![Annotation 2023-06-23 130231](https://github.com/jeeban-jyoti/Live-Chat-Application/assets/72793803/a9721008-e21f-4678-a289-0723cf9c81e8)
 
