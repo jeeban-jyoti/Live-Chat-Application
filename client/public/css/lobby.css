@@ -1,6 +1,6 @@
-#frm{
-    background-color: rgb(216, 100, 100);
-}
+
 body{
-    background-color: rgb(170, 170, 238);
+    height: 97vh;
+    background-image: linear-gradient(rgb(49, 69, 58), rgb(233, 195, 121));
+    color: white;
 }
